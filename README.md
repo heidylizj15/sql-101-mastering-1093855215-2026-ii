@@ -39,7 +39,7 @@ Creado: 15 de octubre de 2026
 
 La descripción completa del caso (contexto, requerimientos y casos de uso) está en [`docs/Coffee_Coop.pdf`](docs/Coffee_Coop.pdf).
 
-Todos los nombres de la estructura (esquemas, tablas, columnas y constraints) están en **inglés**. La documentación está en español.
+> Todos los nombres de la estructura (esquemas, tablas, columnas y constraints) están en **inglés**. La documentación está en español.
 
 | Esquema | Responsabilidad |
 |---|---|
@@ -80,7 +80,7 @@ Todos los nombres de la estructura (esquemas, tablas, columnas y constraints) es
 | CHECK | 20 |
 | Columnas calculadas (`GENERATED`) | 2 |
 
-La base se entrega **sin datos**. El conteo de registros se agregará cuando se genere la carga de datos.
+> La base se entrega **sin datos**. El conteo de registros se agregará cuando se genere la carga de datos.
 
 ---
 
